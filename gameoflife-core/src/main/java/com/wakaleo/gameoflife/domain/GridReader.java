@@ -7,7 +7,7 @@ import java.util.List;
  * Wakaleo Consulting - John Ferguson Smart
  * Game of life, demonstration application for Jenkins: The Definitive Guide
  *
- * GridReader.java
+ * GridReader.java hnijnij
  * Class for converting inputted string of state symbols into array of cell objects
  */
 public class GridReader {
